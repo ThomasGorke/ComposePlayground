@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeExample</string>
+    <string name="tab_label_basic">Basic</string>
+    <string name="tab_label_basic_buttons">Buttons</string>
+    <string name="tab_label_basic_text_fields">Input Fields</string>
+    <string name="tab_label_data">Data</string>
+    <string name="tab_label_basic_state_hoisting">State Hoisting</string>
+    <string name="tab_label_basic_icons">Icons</string>
+    <string name="tab_label_lists">Lists</string>
+    <string name="tab_label_canvas">Canvas</string>
+    <string name="tab_label_dialog">Dialogs</string>
+</resources>
